@@ -1,6 +1,1 @@
-**表情包/gif/i.md**
-
-[//]: # (
-        
-This is a test file for the /表情包/gif/i.md page.)
-[nh](https://www.google.com/search?q=gif)
+![👇👇👇编写高质量代码方法](https://userblink.csdnimg.cn/20220518/qq_35427589/pic/85c540a72edc5dedffffc42928a054a2-0.png?x-oss-process=image/watermark,image_bG9nby9sb2dvM3gucG5nP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLGhfMjg=,text_QOWFsemlruS4gOadr-aXoA==,color_FFFFFF,size_30,type_ZmFuZ3poZW5naGVpdGk,shadow_20,t_50,g_se,x_16,y_16,order_0,align_2,interval_4)
